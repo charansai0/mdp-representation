@@ -4,24 +4,25 @@
 Write your aim here
 
 ## PROBLEM STATEMENT:
-
+To develop a game which will promote to other level,when the agent complete its task correctly.
 ### Problem Description
-Write your answer here
+If the agent unable to complete the given task,then there is no promotion to other level,when it reaches the final level,it will recieve a reward.
 
 ### State Space
-Write your answer here
-
+{L1,L2,L3}--->{0,1,2}
 ### Sample State
-Write your answer here
+L1--->{0}
 
 ### Action Space
-Write your answer here
+Moving Left(1)
+
+Stay in the same level(0)
 
 ### Sample Action
-Write your answer here
+Stay in the same level(0)
 
 ### Reward Function
-Write your answer here
++1(When it reaches the goal state or final level)
 
 ### Graphical Representation
 Write your answer here
