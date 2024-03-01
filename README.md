@@ -27,11 +27,29 @@ Write your answer here
 Write your answer here
 
 ## PYTHON REPRESENTATION:
-Write your code here
+~~~
+
+P = {
+    0:{
+        0: [(0.55,0,0,True),(0.13,1,0,False)],
+        1: [(0.13,1,0,False),(0.55,0,0,True)]
+    },
+    1:{
+        0: [(0.55,1,0,False),(0.13,2,1,True)],
+        1: [(0.13,2,1,True),(0.55,1,0,False)]
+    },
+    2:{
+        0: [(0.55,2,1,True),(0.13,1,1,False)],
+        1: [(0.13,1,1,False),(0.55,2,1,True)]
+    }
+}
+
+
+~~~
 
 ## OUTPUT:
-Write your Python output here
+![image](https://github.com/charansai0/mdp-representation/assets/94296221/7e09d35a-aa50-4b86-85c1-9f9ea7e0bb3c)
+
 
 ## RESULT:
-Write your output here
-
+Therefore an MDP representation has been created for a real world scenario with all the states, actions and rewards.
