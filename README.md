@@ -50,7 +50,8 @@ P = {
 ~~~
 
 ## OUTPUT:
-![image](https://github.com/charansai0/mdp-representation/assets/94296221/7e09d35a-aa50-4b86-85c1-9f9ea7e0bb3c)
+![Screenshot (22)](https://github.com/charansai0/mdp-representation/assets/94296221/6759e785-47d5-4b9c-84b4-31917db3218f)
+
 
 
 ## RESULT:
